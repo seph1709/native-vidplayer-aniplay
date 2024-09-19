@@ -1,2 +1,3 @@
-## modified native video player for aniplay
+## modified video_player for aniplay
+
 original project from https://pub.dev/packages/video_player
